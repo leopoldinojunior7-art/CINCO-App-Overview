@@ -29,6 +29,10 @@ O projeto privado da aplicação utiliza tecnologias web como **TypeScript, Reac
 
 O CINCO está em desenvolvimento. A publicação desta descrição não significa que a aplicação esteja disponível publicamente ou pronta para produção.
 
+## Contacto profissional
+
+Sou **Leopoldino Alfredo**, criador do projeto CINCO. Recrutadores, profissionais de tecnologia e potenciais colaboradores podem [visitar o meu perfil no LinkedIn](https://www.linkedin.com/in/leopoldo-alfredo-b55380383) e conectar-se comigo.
+
 ## Privacidade e repositórios
 
 Este repositório contém apenas informações de apresentação. O código-fonte da aplicação permanece no repositório privado [CINCO-App](https://github.com/leopoldinojunior7-art/CINCO-App).
