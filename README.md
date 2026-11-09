@@ -31,7 +31,7 @@ O CINCO está em desenvolvimento. A publicação desta descrição não signific
 
 ## Contacto profissional
 
-Sou **Leopoldino Alfredo**, criador do projeto CINCO. Recrutadores, profissionais de tecnologia e potenciais colaboradores podem [visitar o meu perfil no LinkedIn](https://www.linkedin.com/in/leopoldo-alfredo-b55380383) e conectar-se comigo.
+Sou **Leopoldino Alfredo**, criador do projeto CINCO. Recrutadores, profissionais de tecnologia e potenciais colaboradores podem [visitar o meu perfil no LinkedIn](https://www.linkedin.com/in/leopoldino-alfredo-b55380383?utm_source=share_via&utm_content=profile&utm_medium=member_android) e conectar-se comigo.
 
 ## Privacidade e repositórios
 
